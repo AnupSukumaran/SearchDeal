@@ -1,0 +1,24 @@
+//
+//  IQUIViewController+Additions.m
+//  nisse
+//
+//  Created by don_Quiqinfotech_softwares on 10/04/16.
+//  Copyright © 2016 nissenotes. All rights reserved.
+//
+
+#import "IQUIViewController+Additions.h"
+#import <objc/runtime.h>
+
+@implementation UIViewController (Additions)
+
+-(void)setIQLayoutGuideConstraint:(NSLayoutConstraint *)IQLayoutGuideConstraint
+{
+    objc_setAssociatedObject(self, @selector(IQLayoutGuideConstraint), IQLayoutGuideConstraint, OBJC_ASSOCIATION_RETAIN_NONATOMIC);
+}
+
+-(NSLayoutConstraint *)IQLayoutGuideConstraint
+{
+    return objc_getAssociatedObject(self, @selector(IQLayoutGuideConstraint));
+}
+
+@end

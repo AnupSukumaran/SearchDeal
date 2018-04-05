@@ -1,0 +1,116 @@
+%PDF-1.1
+%שתח
+1 0 obj
+<<
+/OpenAction [4 0 R
+/Fit]
+/Outlines 2 0 R
+/PageMode /UseNone
+/Pages 3 0 R
+/Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Outlines
+>>
+endobj
+
+3 0 obj
+<<
+/Count 1
+/Kids [4 0 R]
+/Type /Pages
+>>
+endobj
+
+4 0 obj
+<<
+/ArtBox [0 0 512 512]
+/Contents [5 0 R]
+/Group <<
+/CS /DeviceRGB
+/S /Transparency
+/Type /Group
+>>
+/MediaBox [0 0 512 512]
+/Parent 3 0 R
+/Resources <<
+/ProcSet [/PDF
+/Text
+/ImageB
+/ImageC
+/ImageI]
+>>
+/Type /Page
+>>
+endobj
+
+5 0 obj
+<<
+/Length 489
+>>
+stream
+1 0 0 -1 0 512 cm
+0 0 512 512 re
+W n
+1 0 0 1 0 0 cm
+4 M
+q
+q
+q
+0.88235 0.12549 0.24706 rg
+255.303 156.755 m
+486.016 387.297 l
+491.693 392.969 500.788 392.97 506.471 387.297 c
+512.148 381.625 512.148 372.53 506.471 366.859 c
+265.477 126.057 l
+259.807 120.385 250.7 120.39 245.024 126.057 c
+4.142 366.858 l
+1.357 369.646 -0.139 373.38 -0.139 377.024 c
+-0.139 380.66 1.257 384.40 4.142 387.178 c
+9.823 392.85 18.913 392.85 24.596 387.178 c
+255.303 156.755 l
+h
+f
+Q
+Q
+Q
+
+endstream
+endobj
+
+6 0 obj
+<<
+/Author ()
+/Keywords ()
+/Producer (pdfaid using ABCpdf)
+/Subject ()
+/Title ()
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f
+0000000017 00000 n
+0000000131 00000 n
+0000000173 00000 n
+0000000235 00000 n
+0000000472 00000 n
+0000001020 00000 n
+trailer
+<<
+/ABCpdf 10121
+/ID [<176A73D9ACED482C6AE607AAAF44A52D>
+<DEEF7C075353646D7817CFDC9D45642B>]
+/Info 6 0 R
+/Root 1 0 R
+/Size 7
+/Source (WeJXFxNO4fJduyUMetTcP9+oaONfINN4+d7v87LgX2wZ4VKxYW3Yfe0UG0cxzgJPB9khgm8VtCFmyd8gIrwOjQRAIjPsWhM4vgMCV\
+8KvVF/K8lf75fcdd7vGe0iYWXc1DZgsCst+wRQ3GEg=)
+>>
+startxref
+1124
+%%EOF

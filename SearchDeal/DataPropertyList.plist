@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   DataPropertyList.plist
+   SearchDeal
+
+   Created by quiqinfotech on 03/10/17.
+   Copyright (c) 2017 Oranz Softwares. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>types</key>
+        <array>
+            <string>SUV</string>
+            <string>Hatchback</string>
+            <string>Sedan</string>
+            <string>Hybrid Electric</string>
+            <string>Convertible</string>
+            <string>MUV</string>
+            <string>Van</string>
+            <string>Sports Car</string>
+            <string>Luxury Car</string>
+            <string>Coupe</string>
+        </array>
+        <key>SUVbrands</key>
+        <array>
+            <string>Maruti</string>
+            <string>Mahindra</string>
+            <string>Ford</string>
+            <string>Hyundai</string>
+            <string>Tata</string>
+            <string>Chevrolet</string>
+            <string>Honda</string>
+            <string>Audi</string>
+            <string>Bentley</string>
+            <string>BMW</string>
+            <string>Conquest</string>
+            <string>Force</string>
+            <string>Isuzu</string>
+            <string>Jeep</string>
+            <string>Land Rover</string>
+            <string>Mahindra Ssangyong</string>
+            <string>Mercedes Benz</string>
+            <string>Mitsubishi</string>
+            <string>Nissan</string>
+            <string>Porsche</string>
+            <string>Premier</string>
+            <string>Renault</string>
+            <string>Skoda</string>
+            <string>Toyota</string>
+            <string>Volvo</string>
+        </array>
+        <key>Hatchbackbrands</key>
+        <array>
+            <string>Hyundai</string>
+            <string>Tata</string>
+            <string>Chevrolet</string>
+            <string>Mahindra</string>
+            <string>Honda</string>
+            <string>BMW</string>
+            <string>Mini</string>
+            <string>Nissan</string>
+            <string>Renault</string>
+            <string>Toyota</string>
+            <string>Volkswagen</string>
+            <string>Volvo</string>
+            <string>Maruti</string>
+        </array>
+        <key>Sedanbrands</key>
+        <array>
+            <string>Hyundai</string>
+            <string>Tata</string>
+            <string>Chevrolet</string>
+            <string>Mahindra</string>
+            <string>Honda</string>
+            <string>Audi</string>
+            <string>Fiat</string>
+            <string>Mercedes Benz</string>
+            <string>Nissan</string>
+            <string>Renault</string>
+            <string>Skoda</string>
+            <string>Toyota</string>
+            <string>Volkswagen</string>
+            <string>Volvo</string>
+        </array>
+        <key>Hybrid Electricbrands</key>
+        <array>
+            <string>BMW</string>
+            <string>Toyota</string>
+            <string>Volvo</string>
+        </array>
+        <key>Convertiblebrands</key>
+        <array>
+            <string>Audi</string>
+            <string>Bentley</string>
+            <string>BMW</string>
+            <string>Bugatti</string>
+            <string>Ferrari</string>
+            <string>Jaguar</string>
+            <string>Lamborghini</string>
+            <string>Maserati</string>
+            <string>Mercedes Benz</string>
+            <string>Mini</string>
+            <string>Porsche</string>
+            <string>Rolls Royce</string>
+        </array>
+        <key>MUVbrands</key>
+        <array>
+            <string>Tata</string>
+            <string>Cheverolet</string>
+            <string>Mahindra</string>
+            <string>Honda</string>
+            <string>Datsun</string>
+            <string>ICML</string>
+            <string>Mercedes Benz</string>
+            <string>Renault</string>
+            <string>Toyota</string>
+            <string>Maruti</string>
+        </array>
+        <key>Vanbrands</key>
+        <array>
+            <string>Mahindra</string>
+        </array>
+        <key>SportsCarbrands</key>
+        <array>
+            <string>Audi</string>
+            <string>Toyota</string>
+            <string>Lamborghini</string>
+            <string>Honda</string>
+            <string>BMW</string>
+            <string>Subaru</string>
+            <string>Nissan</string>
+            <string>Porsche</string>
+            <string>Aston Martin</string>
+        </array>
+        <key>LuxuryCarbrands</key>
+        <array>
+            <string>Aston Martin</string>
+            <string>Audi</string>
+            <string>Bentley</string>
+            <string>BMW</string>
+            <string>Jaguar</string>
+            <string>Maserati</string>
+            <string>Mercedes Benz</string>
+            <string>Porsche</string>
+            <string>Rolls Royce</string>
+            <string>Volvo</string>
+        </array>
+        <key>Coupebrands</key>
+        <array>
+            <string>Aston Martin</string>
+            <string>Audi</string>
+            <string>Bentley</string>
+            <string>BMW</string>
+            <string>DC</string>
+            <string>Ferrari</string>
+            <string>Jaguar</string>
+            <string>Lamborghini</string>
+            <string>Land Rover</string>
+            <string>Maserati</string>
+            <string>Mercedes Benz</string>
+            <string>Porsche</string>
+            <string>Rolls Royce</string>
+        </array>
+        <key>SUVMarutiModels</key>
+        <array>
+            <string>Gypsy</string>
+            <string>Vitara Brezza</string>
+            <string>S Cross</string>
+        </array>
+        <key>SUVMahindraModels</key>
+        <array>
+            <string>KUV100</string>
+            <string>Thar</string>
+            <string>Bolero</string>
+            <string>Quanto</string>
+            <string>TUV 300</string>
+            <string>NuvoSport</string>
+            <string>Scorpio</string>
+            <string>XUV500</string>
+        </array>
+        <key>SUVFordModels</key>
+        <array>
+            <string>Ecosport</string>
+            <string>Endeavour</string>
+        </array>
+        <key>SUVHyundaiModels</key>
+        <array>
+            <string>Creta</string>
+            <string>Santa Fe</string>
+        </array>
+        <key>SUVTataModels</key>
+        <array>
+            <string>Sumo</string>
+            <string>Safari</string>
+            <string>Safari Storme</string>
+            <string>Aria</string>
+        </array>
+        <key>SUVChevroletModels</key>
+        <array>
+            <string>Tavera</string>
+            <string>Trailblazer</string>
+        </array>
+        <key>SUVHondaModels</key>
+        <array>
+            <string>BRV</string>
+            <string>CR V</string>
+        </array>
+        <key>SUVAudiModels</key>
+        <array>
+            <string>Q5</string>
+            <string>Q3</string>
+            <string>Q7</string>
+        </array>
+        <key>SUVBentleyModels</key>
+        <array>
+            <string>Bentayga</string>
+        </array>
+        <key>SUVBMWModels</key>
+        <array>
+            <string>X1</string>
+            <string>X3</string>
+            <string>X5</string>
+            <string>X6</string>
+            <string>M Series</string>
+        </array>
+        <key>SUVConquestModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>SUVForceModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>SUVIsuzuModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>SUVJeepModels</key>
+        <array>
+            <string>Wrangler Unlimited</string>
+            <string>Grand Cherokee</string>
+        </array>
+        <key>SUVLand RoverModels</key>
+        <array>
+            <string>Discovery Sport</string>
+            <string>Range Rover Evoque</string>
+            <string>Discovery 4</string>
+            <string>Range Rover Sport</string>
+            <string>Range Rover</string>
+        </array>
+        <key>SUVMahindra SsangyongModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>SUVMercedes BenzModels</key>
+        <array>
+            <string>GLA_Class</string>
+            <string>GLC</string>
+            <string>GLE</string>
+            <string>GLA_45_AMG</string>
+            <string>GLS</string>
+            <string>M Class</string>
+            <string>G Class</string>
+        </array>
+        <key>SUVMitsubishiModels</key>
+        <array>
+            <string>Pajero Sport</string>
+            <string>Montero</string>
+        </array>
+        <key>SUVNissanModels</key>
+        <array>
+            <string>Terrano</string>
+            <string>X Trail</string>
+        </array>
+        <key>SUVPorscheModels</key>
+        <array>
+            <string>Macan</string>
+            <string>Cayenne</string>
+        </array>
+        <key>SUVPremierModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>SUVRenaultModels</key>
+        <array>
+            <string>Lodgy</string>
+            <string>Duster</string>
+            <string>Koleos</string>
+        </array>
+        <key>SUVSkodaModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>SUVToyotaModels</key>
+        <array>
+            <string>Innova</string>
+            <string>Innova Crysta</string>
+            <string>Fortuner</string>
+            <string>Land Cruiser Prado</string>
+            <string>Land Cruiser</string>
+        </array>
+        <key>SUVVolvoModels</key>
+        <array>
+            <string>XC60</string>
+            <string>XC90</string>
+        </array>
+        <key>HatchbackHyundaiModels</key>
+        <array>
+            <string>EON</string>
+            <string>i10</string>
+            <string>Grand i10</string>
+            <string>Elite i20</string>
+            <string>i20 Active</string>
+        </array>
+        <key>HatchbackTataModels</key>
+        <array>
+            <string>Nano</string>
+            <string>Tiago</string>
+            <string>Indica eV2</string>
+            <string>Bolt</string>
+        </array>
+        <key>HatchbackChevroletModels</key>
+        <array>
+            <string>Spark</string>
+            <string>Beat</string>
+            <string>Sail </string>
+        </array>
+        <key>HatchbackMahindraModels</key>
+        <array>
+            <string>Verito Vibe</string>
+            <string>e2o</string>
+        </array>
+        <key>HatchbackHondaModels</key>
+        <array>
+            <string>Brio</string>
+            <string>Jazz</string>
+        </array>
+        <key>HatchbackBMWModels</key>
+        <array>
+            <string>1 Series</string>
+        </array>
+        <key>HatchbackMiniModels</key>
+        <array>
+            <string>Mini 3 DOOR</string>
+            <string>Mini 5 DOOR</string>
+            <string>Mini Cooper Convertible</string>
+            <string>Mini Countryman</string>
+        </array>
+        <key>HatchbackNissanModels</key>
+        <array>
+            <string>Micra Active</string>
+            <string>Micra</string>
+        </array>
+        <key>HatchbackRenaultModels</key>
+        <array>
+            <string>KWID</string>
+            <string>Pulse</string>
+        </array>
+        <key>HatchbackRenaultModels</key>
+        <array>
+            <string>KWID</string>
+            <string>Pulse</string>
+        </array>
+        <key>HatchbackToyotaModels</key>
+        <array>
+            <string>Etios Liva</string>
+            <string>Etios Cross</string>
+        </array>
+        <key>HatchbackVolkswagenModels</key>
+        <array>
+            <string>Polo</string>
+            <string>CrossPolo</string>
+            <string>Polo GTI</string>
+        </array>
+        <key>HatchbackVolvoModels</key>
+        <array>
+            <string>V40</string>
+            <string>V40 Cross Country</string>
+        </array>
+        <key>HatchbackMarutiModels</key>
+        <array>
+            <string>Alto 800</string>
+            <string>Alto K10</string>
+            <string>Celerio</string>
+            <string>Wagon R</string>
+            <string>Wagon R Stingray</string>
+            <string>Ritz</string>
+            <string>Swift</string>
+            <string>Baleno</string>
+        </array>
+        <key>SedanHyundaiModels</key>
+        <array>
+            <string>Xcent</string>
+            <string>Verna</string>
+            <string>Elantra</string>
+            <string>Ameo</string>
+            <string>Sonata</string>
+        </array>
+        <key>SedanTataModels</key>
+        <array>
+            <string>Indigo eCS</string>
+            <string>Zest</string>
+        </array>
+        <key>SedanChevroletModels</key>
+        <array>
+            <string>Sail</string>
+            <string>Cruze</string>
+        </array>
+        <key>SedanMahindraModels</key>
+        <array>
+            <string>Verito</string>
+            <string>E Verito</string>
+        </array>
+        <key>SedanHondaModels</key>
+        <array>
+            <string>Amaze</string>
+            <string>City</string>
+        </array>
+        <key>SedanAudiModels</key>
+        <array>
+            <string>A3</string>
+            <string>A6</string>
+        </array>
+        <key>SedanFiatModels</key>
+        <array>
+            <string>Linea Classic</string>
+            <string>Linea</string>
+        </array>
+        <key>SedanMercedes BenzModels</key>
+        <array>
+            <string>CLA</string>
+            <string>E Class</string>
+            <string>C Class</string>
+            <string>S Class</string>
+        </array>
+        <key>SedanNissanModels</key>
+        <array>
+            <string>Sunny</string>
+        </array>
+        <key>SedanRenaultModels</key>
+        <array>
+            <string>Scala</string>
+            <string>Fluence</string>
+        </array>
+        <key>SedanSkodaModels</key>
+        <array>
+            <string>Rapid</string>
+            <string>Octavia</string>
+            <string>Superb</string>
+        </array>
+        <key>SedanToyotaModels</key>
+        <array>
+            <string>Platinum Etios</string>
+            <string>Corolla Altis</string>
+            <string>Camry</string>
+        </array>
+        <key>SedanToyotaModels</key>
+        <array>
+            <string>Platinum Etios</string>
+            <string>Corolla Altis</string>
+            <string>Camry</string>
+        </array>
+        <key>SedanVolkswagenModels</key>
+        <array>
+            <string>Vento</string>
+            <string>Jetta</string>
+            <string>Passat</string>
+        </array>
+        <key>SedanVolvoModels</key>
+        <array>
+            <string>S60</string>
+        </array>
+        <key>Hybrid ElectricBMWModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Hybrid ElectricToyotaModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Hybrid ElectricVolvoModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>ConvertibleAudiModels</key>
+        <array>
+            <string>A3 cabriolet</string>
+        </array>
+        <key>ConvertibleBentleyModels</key>
+        <array>
+            <string>Continental</string>
+        </array>
+        <key>ConvertibleBMWModels</key>
+        <array>
+            <string>Z4</string>
+        </array>
+        <key>ConvertibleBugattiModels</key>
+        <array>
+            <string>Veyron</string>
+        </array>
+        <key>ConvertibleFerrariModels</key>
+        <array>
+            <string>California T</string>
+        </array>
+        <key>ConvertibleJaguarModels</key>
+        <array>
+            <string>F Type</string>
+        </array>
+        <key>ConvertibleLamborghiniModels</key>
+        <array>
+            <string>Aventador</string>
+        </array>
+        <key>ConvertibleMaseratiModels</key>
+        <array>
+            <string>Gran Cabrio</string>
+        </array>
+        <key>ConvertibleMercedes BenzModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>ConvertibleMiniModels</key>
+        <array>
+            <string>Cooper Convertible</string>
+        </array>
+        <key>ConvertiblePorscheModels</key>
+        <array>
+            <string>Boxster</string>
+            <string>911</string>
+        </array>
+        <key>ConvertibleRolls RoyceModels</key>
+        <array>
+            <string>Dawn</string>
+        </array>
+        <key>MUVTataModels</key>
+        <array>
+            <string>Xenon XT</string>
+        </array>
+        <key>MUVCheveroletModels</key>
+        <array>
+            <string>Enjoy</string>
+            <string>Tavera</string>
+        </array>
+        <key>MUVMahindraModels</key>
+        <array>
+            <string>Xylo</string>
+        </array>
+        <key>MUVHondaModels</key>
+        <array>
+            <string>Mobilio</string>
+        </array>
+        <key>MUVDatsunModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>MUVICMLModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>MUVMercedes BenzModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>MUVRenaultModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>MUVToyotaModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>MUVMarutiModels</key>
+        <array>
+            <string>Omni</string>
+            <string>Eeco</string>
+            <string>Ertiga</string>
+        </array>
+        <key>VanMahindraModels</key>
+        <array>
+            <string>Supro</string>
+        </array>
+        <key>Sports CarAudiModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Sports CarToyotaModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Sports CarLamborghiniModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Sports CarHondaModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Sports CarBMWModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Sports CarSubaruModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Sports CarNissanModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Sports CarPorscheModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Sports CarAston MartinModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Luxury CarAston MartinModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Luxury CarAudiModels</key>
+        <array>
+            <string>A4</string>
+            <string>A6</string>
+            <string>S5</string>
+            <string>A8</string>
+            <string>RS6 Avant</string>
+            <string>RS7</string>
+        </array>
+        <key>Luxury CarBentleyModels</key>
+        <array>
+            <string>Flying Spur</string>
+            <string>Mulsanne</string>
+        </array>
+        <key>Luxury CarBMWModels</key>
+        <array>
+            <string>3 Series</string>
+            <string>5 Series</string>
+            <string>6 Series</string>
+            <string>7 Series</string>
+            <string>M Series</string>
+        </array>
+        <key>Luxury CarJaguarModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Luxury CarMaseratiModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Luxury CarMercedes BenzModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Luxury CarPorscheModels</key>
+        <array>
+            <string>Panamera</string>
+        </array>
+        <key>Luxury CarRolls RoyceModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Luxury CarVolvoModels</key>
+        <array>
+            <string>S60 Cross Country</string>
+            <string>S80</string>
+        </array>
+        <key>CoupeAston MartinModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>CoupeAudiModels</key>
+        <array>
+            <string>TT</string>
+            <string>R8</string>
+        </array>
+        <key>CoupeBentleyModels</key>
+        <array>
+            <string>Continental</string>
+        </array>
+        <key>CoupeBMWModels</key>
+        <array>
+            <string>M Series</string>
+        </array>
+        <key>CoupeDCModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>CoupeFerrariModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>CoupeJaguarModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>CoupeLamborghiniModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>CoupeLand RoverModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>CoupeMaseratiModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>CoupeMercedes BenzModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>CoupePorscheModels</key>
+        <array>
+            <string>Cayman</string>
+            <string>911</string>
+        </array>
+        <key>CoupeRolls RoyceModels</key>
+        <array>
+            <string>None</string>
+        </array>
+        <key>Fuel Types</key>
+        <array>
+            <string>Petrol</string>
+            <string>Diesel</string>
+            <string>CNG</string>
+            <string>CNG &amp; Hybrid</string>
+            <string>Petrol</string>
+        </array>
+    
+    </dict>
+</plist>

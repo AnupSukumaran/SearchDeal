@@ -1,0 +1,38 @@
+
+Story Board
+-----------------------
+
+main
+-------
+home
+subcatagory view
+menu
+nearbysearch from home
+
+main2
+----------
+subcatagory master
+subcatagory detals
+merchant login
+forgot password
+
+main3
+----------
+search
+alldeals
+NearBySearchCatagoryListViewController
+NearBySearchCatagoryDetailViewController
+
+main4
+--------
+nearby location search
+
+main5
+----------
+
+edit deal
+
+
+
+
+

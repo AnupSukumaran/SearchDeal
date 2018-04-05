@@ -1,0 +1,132 @@
+%PDF-1.1
+%שתח
+1 0 obj
+<<
+/OpenAction [4 0 R
+/Fit]
+/Outlines 2 0 R
+/PageMode /UseNone
+/Pages 3 0 R
+/Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Outlines
+>>
+endobj
+
+3 0 obj
+<<
+/Count 1
+/Kids [4 0 R]
+/Type /Pages
+>>
+endobj
+
+4 0 obj
+<<
+/ArtBox [0 0 512 512]
+/Contents [5 0 R]
+/Group <<
+/CS /DeviceRGB
+/S /Transparency
+/Type /Group
+>>
+/MediaBox [0 0 512 512]
+/Parent 3 0 R
+/Resources <<
+/ProcSet [/PDF
+/Text
+/ImageB
+/ImageC
+/ImageI]
+>>
+/Type /Page
+>>
+endobj
+
+5 0 obj
+<<
+/Length 999
+>>
+stream
+1 0 0 -1 0 512 cm
+0 0 512 512 re
+W n
+1 0 0 1 0 0 cm
+4 M
+q
+q
+1 1 1 rg
+302.545 49.514 m
+302.545 75.83 281.172 97.18 254.857 97.181 c
+228.564 97.181 207.19 75.83 207.19 49.514 c
+207.19 23.175 228.563 1.83 254.857 1.825 c
+281.172 1.825 302.545 23.18 302.545 49.514 c
+h
+286.657 128.981 m
+223.08 128.981 l
+205.52 128.981 191.279 143.20 191.279 160.759 c
+191.279 287.893 l
+223.08 287.893 l
+223.08 415.05 l
+286.658 415.05 l
+286.658 287.895 l
+318.413 287.895 l
+318.413 160.759 l
+318.412 143.2 304.238 128.98 286.657 128.981 c
+h
+318.412 323.079 m
+318.412 355.193 l
+392.463 363.907 445.592 387.40 445.592 415.048 c
+445.592 450.166 360.166 478.63 254.857 478.626 c
+149.57 478.626 64.145 450.17 64.145 415.048 c
+64.145 387.4 117.296 363.91 191.279 355.193 c
+191.279 323.079 l
+105.086 332.49 32.367 361.92 32.367 415.05 c
+32.367 480.907 144.131 510.41 254.857 510.406 c
+365.628 510.406 477.37 480.91 477.37 415.05 c
+477.369 361.921 404.65 332.49 318.412 323.079 c
+h
+f
+Q
+Q
+
+endstream
+endobj
+
+6 0 obj
+<<
+/Author ()
+/Keywords ()
+/Producer (pdfaid using ABCpdf)
+/Subject ()
+/Title ()
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f
+0000000017 00000 n
+0000000131 00000 n
+0000000173 00000 n
+0000000235 00000 n
+0000000472 00000 n
+0000001530 00000 n
+trailer
+<<
+/ABCpdf 10121
+/ID [<34C1D0C757227858646851D26BF41FB5>
+<BF51B7D445E24DE9E50E381D985A289D>]
+/Info 6 0 R
+/Root 1 0 R
+/Size 7
+/Source (WeJXFxNO4fJduyUMetTcP9+oaONfINN4+d7v87LgX2wZ4VKxYW3Yfe0UG0cxzgJPB9khgm8VtCFmyd8gIrwOjQRAIjPsWhM4vgMCV\
+8KvVF/K8lf75fcdd7vGe0iYWXc1DZgsCst+wRQ3GEg=)
+>>
+startxref
+1634
+%%EOF
